@@ -12,4 +12,4 @@ Paginação - incluir opção para selcionar quantos itens quero ver na lista, 1
 
 Lista - Quando clicar na coluna ordenar pela coluna crescente/descrecente, se tiver coluna ações sempre incluir com icones.
 
-Mensagens/Alertas/Confirmação - Ser em formato de modal seguindo o estilo do sistema.
+Mensagens/Alertas/Confirmação - Sempre em formato de modal seguindo o estilo do sistema.
