@@ -8,9 +8,11 @@ Desenvolvimento
 
 Sempre pegar o login e senha do banco que esta ativo para o sistema que esta trabalhando.
 
-Não usar mock(mocado) nos código, sempre usar dados reais vindos da api`s integradas ao banco.
+Obrigatoriamente não usar mock(mocado) nos código, sempre usar dados reais vindos da api`s integradas ao banco.
 
 Realizar desenvolvimento, sempre desenvolver front, api e banco.
+
+Somente testar o sistema se eu pedir.
 
 Eu decido quando tem que atualizar o repositorio no git.
 
