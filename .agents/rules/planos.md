@@ -11,7 +11,9 @@ PLANOS
   2 - Fazer o PULL de todos os projetos e atualizar branch dev dos projetos que foram feitas as alterações, atualizar/gerar os scripts no projeto do banco que foram desenvolvidos ou alterados.
   3 - Fazer commit todos os projetos no github e o sincronismo na branch dev se não houver a branch dev, criar.
 
-- [PULL] - Realizar o PULL de todos os projetos da branch dev e listar as Tag`s e abaixar os porojetos das tags mais recentes.
+  4 - Realizar o PUSH de todos os projetos
+
+- [PULL] - Realizar o PULL de todos os projetos da branch dev e listar as Tag`s e abaixar os projetos das tags mais recentes.
 
 - [SINCRONIZAR BRANCH]
 
