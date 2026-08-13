@@ -22,6 +22,6 @@ Sempre no final de algum desenvolvimento, se houver alterações/inclusão no ba
 
 Não utilize o modo visual ou capturas de tela (screenshots) para ler o código. Foque apenas na leitura direta dos arquivos de texto e logs do terminal para economizar tempo.
 
-Sempre no final de cada alteração, reiniciar o container no projeto alterado , para atualizar o código fonte.
+Sempre no final de cada alteração em qualquer projeto, atualizar obrigatoriamente a pasta `external` correspondente (aonde os containers estão referenciando) e reiniciar o container no projeto alterado para atualizar o código fonte.
 
 Somente trabalhar na pasta do projeto.
