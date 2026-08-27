@@ -24,4 +24,6 @@ Não utilize o modo visual ou capturas de tela (screenshots) para ler o código.
 
 Sempre no final de cada alteração em qualquer projeto, atualizar obrigatoriamente a pasta `external` correspondente (aonde os containers estão referenciando) e reiniciar o container no projeto alterado para atualizar o código fonte.
 
+Executar automaticamente as tarefas que estão na fila
+
 Somente trabalhar na pasta do projeto.
